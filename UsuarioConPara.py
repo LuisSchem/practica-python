@@ -1,6 +1,6 @@
 testigo=True
 
-for Intentos in range (1,4):
+for Intentos in range (3):
     Usuario= input ("Ingrese usuario: ")
     Contrasenia = input ("Ingrese contraseña: ")
     if Usuario == 'admin' and Contrasenia == 'dificil123':
