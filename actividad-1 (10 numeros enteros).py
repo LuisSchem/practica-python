@@ -22,6 +22,7 @@ suma_pares=0
 for contador in range(10):
     numero=int(input(f"Ingrese el número {contador+1} de la lista: "))
     lista_numeros.append(numero)
+for recorrida in lista_numeros
     if numero % 2 != 0:
         cantidad_impar +=1
     else:
