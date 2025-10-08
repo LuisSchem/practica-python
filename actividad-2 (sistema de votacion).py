@@ -13,8 +13,6 @@
 
 
 cantidadDeVotantes=1
-##nombreVotante = " "
-##numeroCandidato = 0
 votantes = {}
 votaciones = {}
 
