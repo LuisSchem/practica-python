@@ -20,5 +20,6 @@ while True:
         if salgo == "S" or salgo == "s":
             pass
         else:
+            print("Adios...")
             break
     
